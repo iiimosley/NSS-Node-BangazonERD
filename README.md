@@ -1,1 +1,1 @@
-![Bangazon ERD](https://raw.githubusercontent.com/iiimosley/nss-spa-sandwich-maker/master/images/sandwich-maker.png "Bangazon ERD")
+![Bangazon ERD](https://raw.githubusercontent.com/iiimosley/nss-node-bangazonerd/master/bangazonERD.png "Bangazon ERD")
